@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: silver;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.container{
+    padding: 24px 38%;
+}
+h1{
+    margin: 5px;
+    color: white;
+}
+table{
+    text-align: center;
+}
+.btn, .btn1{
+    width: 35px;
+    font-style: oblique;
+    color: black;
+    border: none;
+    border-radius: 15px;
+    background-color: white;
+    height: 40px;
+    font-weight: bolder;
+ }
+ .btn1{
+    width: 75px;
+
+ }
+ input{
+    width:140px;
+    padding:8px;
+    font-weight: bolder;
+ }
